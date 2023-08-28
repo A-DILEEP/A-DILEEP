@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/dileepreddy2003" target="blank"><img src="https://img.shields.io/twitter/follow/dileepreddy2003?logo=twitter&style=for-the-badge" alt="dileepreddy2003" /></a> </p>
 
-- 🔭 I’m currently working on **Web development**
+- 🔭 I’m currently working on **Mini project**
 
-- 🌱 I’m currently learning **Js ,bootstrap**
+- 🌱 I’m currently learning ** C++ **
 
 - 📫 How to reach me **dileepalla2003@gmail.com**
 
