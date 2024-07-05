@@ -23,25 +23,26 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" alt="Postman logo"/>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"  height="40" alt="c++ logo"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"  height="40" alt="c++ logo"/>
+   
+          
 </div>
 
 # 📊 GitHub Stats:
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=A-DILEEP&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=A-DILEEP&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A-DILEEP&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=A-DILEEP&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=A-DILEEP&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=A-DILEEP&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 
 ###
