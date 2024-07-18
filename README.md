@@ -36,13 +36,16 @@
 
 ###
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=A-DILEEP&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![A-DILEEP's Stats](https://github-readme-stats.vercel.app/api?username=A-DILEEP&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
 ###
 
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=A-DILEEP&theme=tokyonight&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=A-DILEEP&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![A-DILEEP's Streak](https://github-readme-streak-stats.herokuapp.com/?user=A-DILEEP&theme=dracula&hide_border=true)
+
+###
+
+![A-DILEEP's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A-DILEEP&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 
 ###
