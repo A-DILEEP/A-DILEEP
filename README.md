@@ -9,7 +9,14 @@
 
 # 💻 Tech Stack:
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Programming Languages:</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"  height="40" alt="c++ logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="40" alt="Python logo"/>  
+  <img width="12" />
+</div>
+<h3 align="left">Web Technologies:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -29,12 +36,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" height="40" alt="sass logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"  height="40" alt="c++ logo"/>
-  <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=52539&format=png&color=ffffff"  height="40" alt="github logo"/>
 </div>
+
+
 
 # 📊 GitHub Stats:
 
