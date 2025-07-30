@@ -15,8 +15,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="40" alt="Java logo"/>  
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="40" alt="Python logo"/>  
-  <img width="12" />
 </div>
 <h3 align="left">Web Technologies:</h3>
 <div align="left">
