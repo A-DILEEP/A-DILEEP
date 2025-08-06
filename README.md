@@ -1,7 +1,7 @@
 [![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)](http://A-DILEEP.io)
 [![](https://visitcount.itsvg.in/api?id=A-DILEEP&icon=0&color=4)](https://visitcount.itsvg.in)
 # 💫 About Me:
-🔭 I’m currently working on FullStack Web development and learning Java Language <br><br>🌱 I’m currently learning NodeJs & MongoDB<br><br>🤝 I’m looking for help with Open Source Projects<br><br>👨‍💻 All of my projects are available at https://dileepalla.vercel.app/<br><br>💬 Ask me about Web Development<br><br>📫 How to reach me dileepalla2003@gmail.com
+🔭 I’m currently working on FullStack Web development and learning Java Language <br><br>🌱 I’m currently learning SpringBoot & PostgreSQL<br><br>🤝 I’m looking for help with Open Source Projects<br><br>👨‍💻 All of my projects are available at https://dileepalla.vercel.app/<br><br>💬 Ask me about Web Development<br><br>📫 How to reach me dileepalla2003@gmail.com
 
 
 ## 🌐 Socials:
@@ -11,9 +11,9 @@
 
 <h3 align="left">Programming Languages:</h3>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"  height="40" alt="c++ logo"/>
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="40" alt="Java logo"/>  
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"  height="40" alt="c++ logo"/>
   <img width="12" />
 </div>
 <h3 align="left">Web Technologies:</h3>
@@ -26,15 +26,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="40" alt="express logo" />   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="sass logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" alt="Postman logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" height="40" alt="sass logo" />
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=52539&format=png&color=ffffff"  height="40" alt="github logo"/>
 </div>
